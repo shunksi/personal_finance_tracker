@@ -6,6 +6,7 @@ A simple Python application to track your personal finances. This app allows you
 
 - **Add a new transaction**: You can add income or expense transactions with details like amount, description, and date.
 - **View transactions and summary**: Get a summary of all your transactions within a specific date range, including total income and expenses.
+- **CSV support**: All transaction data is saved to a CSV file so your records are persistent and easy to access/edit outside the app.
 
 ## Installation
 
